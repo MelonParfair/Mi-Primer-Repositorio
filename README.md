@@ -17,3 +17,6 @@ Url
 ### Autor:
 
 Óscar Ricardo Antonio López García
+
+### Status
+Finalizado en la versión 1.0
